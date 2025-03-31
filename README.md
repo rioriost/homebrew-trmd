@@ -89,6 +89,9 @@ options:
 
 ## Release Notes
 
+### 0.1.1 Release
+- Dependency Update
+
 ### 0.1.0 Release
 - Initial release
 
