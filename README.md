@@ -89,6 +89,27 @@ options:
 
 ## Release Notes
 
+### 0.1.11 Release
+- Dependency Update
+
+### 0.1.10 Release
+- Dependency Update
+
+### 0.1.9 Release
+- Dependency Update
+
+### 0.1.8 Release
+- Dependency Update
+
+### 0.1.7 Release
+- Dependency Update
+
+### 0.1.6 Release
+- Dependency Update
+
+### 0.1.5 Release
+- Dependency Update
+
 ### 0.1.4 Release
 - Dependency Update
 
