@@ -3,8 +3,8 @@ class Trmd < Formula
 
   desc "Translate Markdown using OpenAI"
   homepage "https://github.com/rioriost/homebrew-trmd/"
-  url "https://files.pythonhosted.org/packages/0b/39/a313063d251a2efa32a4b44592cd0fcf3d627d9e40ae36001aeedd63b0f7/trmd-0.1.16.tar.gz"
-  sha256 "dedb626c5f41e8b3481786917ef32eb52890e80803e48c6647dd7136fdddc269"
+  url "https://files.pythonhosted.org/packages/18/a7/31d112a7197a1c5fa15f51a02f56c448400919add78930afdfe9251b4f85/trmd-0.1.17.tar.gz"
+  sha256 "f916abf278d8e03daaf70fde0f80b23571569c221c64f2694f683595155466db"
   license "MIT"
 
   depends_on "python@3.13"
