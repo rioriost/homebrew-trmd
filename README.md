@@ -89,6 +89,9 @@ options:
 
 ## Release Notes
 
+### 0.1.18 Release
+- Dependency Update
+
 ### 0.1.17 Release
 - Dependency Update
 
