@@ -89,6 +89,9 @@ options:
 
 ## Release Notes
 
+### 0.1.28 Release
+- Dependency Update
+
 ### 0.1.27 Release
 - Security Update
 
